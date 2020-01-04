@@ -1,6 +1,7 @@
 # PingPong-Game
 
 Oyunu exe yapmak için :
+
 1 - Terminali açıp pip install cx-Freeze yazınız
 
 2 - Build.bat dosyasına basınız ve işlemin bitmesini bekleyiniz
